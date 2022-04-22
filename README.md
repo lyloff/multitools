@@ -1,25 +1,25 @@
-# Official-Blob-Multitool
+# Multitool
 
-Setup:
+## Setup:
 
-1. download python (https://python.org)
-2. open the file that u downloaded
-3. follow the setup
-4. open it agian and click modify
-5. select all and click next
-6. select all and click next
-7. wait until downloaded
-8. click close
-9. run setup.bat
-10. run start.bat
-11. enjoy multitool
+- download [python](https://python.org)
+- open the file that u downloaded
+- follow the setup
+- open it agian and click modify
+- select all and click next
+- select all and click next
+- wait until downloaded
+- click clone
+- run setup.bat
+- run start.bat
+- enjoy multitool
 
-#-----------------
+# ——————————————————————
 
-Info:
+### Info:
 
-Official Discord: https://discord.gg/Crc92V59ck
+Official [Discord](https://discord.gg/nkjs48Dq92)
 
-developer is blob#0005
+developer is Lyl.#9291
 
-if have any problem running program or want me add anything feel free to add my discord blob#0005
+if have any problem running program or want me add anything feel free to add my discord Lyl.#9291
